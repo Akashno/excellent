@@ -390,7 +390,7 @@ header .navbar {
 
 .Modern-Slider .item-1 .img-fill {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../images/interlockBanner.jpg);
+    url("https://excellent-images.s3.ap-south-1.amazonaws.com/interlockBanner.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -398,7 +398,7 @@ header .navbar {
 
 .Modern-Slider .item-2 .img-fill {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../images/doorBanner.jpg);
+    url("https://excellent-images.s3.ap-south-1.amazonaws.com/doorBanner.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -406,7 +406,7 @@ header .navbar {
 
 .Modern-Slider .item-3 .img-fill {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../images/gardensBanner.jpg);
+    url("https://excellent-images.s3.ap-south-1.amazonaws.com/gardensBanner.png");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1121,11 +1121,18 @@ footer .contact-form button.filled-button:hover {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-
   padding: 230px 0px 150px 0px;
   color: #fff;
 }
-
+.interlock-page {
+  background-image: url("https://excellent-images.s3.ap-south-1.amazonaws.com/interlockMan.jpg");
+}
+.door-page {
+  background-image: url("https://excellent-images.s3.ap-south-1.amazonaws.com/doorPage.png");
+}
+.gardens-page {
+  background-image: url("https://excellent-images.s3.ap-south-1.amazonaws.com/gardenPage.jpg");
+}
 .page-heading h1 {
   text-transform: capitalize;
   font-size: 36px;
