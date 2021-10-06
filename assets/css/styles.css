@@ -1,10 +1,22 @@
-/* 
+.whatsapp-float {
+  position: fixed;
+  width: 60px;
+  height: 60px;
+  bottom: 30px;
+  right: 30px;
+  background-color: #25d366;
+  color: #fff;
+  border-radius: 50px;
+  text-align: center;
+  font-size: 30px;
+  box-shadow: 2px 2px 3px #999;
+  z-index: 100;
+}
 
-TemplateMo - Finance Business
-
-https://templatemo.com/tm-545-finance-business
-
-*/
+.my-whatsapp-float {
+  margin-top: 16px;
+}
+/* me */
 
 body {
   font-family: "Poppins", sans-serif;
@@ -406,7 +418,7 @@ header .navbar {
 
 .Modern-Slider .item-3 .img-fill {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("https://excellent-images.s3.ap-south-1.amazonaws.com/gardensBanner.png");
+    url("https://excellent-images.s3.ap-south-1.amazonaws.com/gardens.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
