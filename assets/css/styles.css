@@ -375,7 +375,9 @@ header .navbar {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
+.nav-logo {
+  width: 125px;
+}
 .Grid1k {
   padding: 0 15px;
   max-width: 1200px;
