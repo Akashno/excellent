@@ -404,7 +404,7 @@ header .navbar {
 
 .Modern-Slider .item-1 .img-fill {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("https://excellent-images.s3.ap-south-1.amazonaws.com/interlockBanner.jpg");
+    url("https://firebasestorage.googleapis.com/v0/b/excellent227-d98de.appspot.com/o/core%2FinterlockBanner.jpg?alt=media&token=55f4ac1f-5357-4bd1-a8fd-21d1e8279d4f");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -412,7 +412,7 @@ header .navbar {
 
 .Modern-Slider .item-2 .img-fill {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("https://excellent-images.s3.ap-south-1.amazonaws.com/doorBanner.jpg");
+    url("https://firebasestorage.googleapis.com/v0/b/excellent227-d98de.appspot.com/o/core%2FdoorBanner.jpg?alt=media&token=38047cf4-31c0-4b6b-8f78-f50dfce72dd1");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -420,7 +420,7 @@ header .navbar {
 
 .Modern-Slider .item-3 .img-fill {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url("https://excellent-images.s3.ap-south-1.amazonaws.com/gardens.jpg");
+    url("https://firebasestorage.googleapis.com/v0/b/excellent227-d98de.appspot.com/o/core%2Fgardens.jpg?alt=media&token=70ca02f0-f321-4e31-949f-af483a4ff621");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -1139,10 +1139,10 @@ footer .contact-form button.filled-button:hover {
   color: #fff;
 }
 .interlock-page {
-  background-image: url("https://excellent-images.s3.ap-south-1.amazonaws.com/interlockMan.jpg");
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/excellent227-d98de.appspot.com/o/core%2FinterlockMan.jpg?alt=media&token=f85d7164-d42e-4ba0-ad4b-cf442395bb6b");
 }
 .door-page {
-  background-image: url("https://excellent-images.s3.ap-south-1.amazonaws.com/doorPage.png");
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/excellent227-d98de.appspot.com/o/core%2FdoorPage.png?alt=media&token=99ae83ef-a50d-4e3c-8974-705a3d4280ff");
 }
 .gardens-page {
   background-image: url("https://excellent-images.s3.ap-south-1.amazonaws.com/gardenPage.jpg");
