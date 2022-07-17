@@ -1140,6 +1140,7 @@ footer .contact-form button.filled-button:hover {
 }
 .interlock-page {
   background-image: url("https://firebasestorage.googleapis.com/v0/b/excellent227-d98de.appspot.com/o/core%2FinterlockMan.jpg?alt=media&token=f85d7164-d42e-4ba0-ad4b-cf442395bb6b");
+  transition: all;
 }
 .door-page {
   background-image: url("https://firebasestorage.googleapis.com/v0/b/excellent227-d98de.appspot.com/o/core%2FdoorPage.png?alt=media&token=99ae83ef-a50d-4e3c-8974-705a3d4280ff");
